@@ -9,7 +9,7 @@ Atualmente curso Análise e Desenvolvimento de Sistemas pela Universidade Paulis
 
 Posto meus projetos e estudos aqui no GitHub e estou sempre em busca de melhorar. 
 
-##📈 Objetivo
+## 📈Objetivo
 Conseguir minha oportunidade na aréa como desenvolvedor para poder evoluir e aprender mais, agregando com os propósitos do time.
 
 ## 🎓Formação
