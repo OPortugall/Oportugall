@@ -20,7 +20,6 @@ Conseguir minha oportunidade na aréa como desenvolvedor para poder evoluir e ap
 - 💼 LinkedIn: www.linkedin.com/in/leonardolportugal
 
 ### 🤖 Linguagens e Tecnologias
-
 <img
     align="left" 
     alt="Python" 
@@ -29,7 +28,6 @@ Conseguir minha oportunidade na aréa como desenvolvedor para poder evoluir e ap
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
 <img 
     align="left" 
     alt="HTML"
@@ -38,7 +36,6 @@ Conseguir minha oportunidade na aréa como desenvolvedor para poder evoluir e ap
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
-
 <img 
     align="left" 
     alt="CSS" 
@@ -47,7 +44,6 @@ Conseguir minha oportunidade na aréa como desenvolvedor para poder evoluir e ap
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
-
 <img
     align="left" 
     alt="JavaScript" 
@@ -56,7 +52,6 @@ Conseguir minha oportunidade na aréa como desenvolvedor para poder evoluir e ap
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"             
 />
-
 <img
     align="left" 
     alt="MySQL" 
@@ -64,6 +59,22 @@ Conseguir minha oportunidade na aréa como desenvolvedor para poder evoluir e ap
     width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"       
+/>
+<img
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"       
+/>
+<img
+    align="left" 
+    alt="GitHub" 
+    title="GitHub"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"       
 />
 
 
