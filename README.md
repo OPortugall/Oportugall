@@ -74,7 +74,7 @@ Conseguir minha oportunidade na aréa como desenvolvedor para poder evoluir e ap
     title="GitHub"
     width="40px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"       
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"       
 />
 
 
